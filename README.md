@@ -33,6 +33,6 @@ myrmex/
 ├── app/
 │   ├── app.py        
 ├── notebooks/
-│   ├── Ant Classification.ipynb     
+│   ├── Ant_DL.ipynb     
 ├── requirements.txt  
 └── README.md         
