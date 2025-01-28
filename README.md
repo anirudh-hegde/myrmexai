@@ -37,4 +37,4 @@ myrmex/
 ├── requirements.txt  
 └── README.md
 
-Deployed on Hugging Face: https://huggingface.co/spaces/anirudh06/myrmexAI
+Deployed on Hugging Face: (https://huggingface.co/spaces/anirudh06/myrmexAI)[https://huggingface.co/spaces/anirudh06/myrmexAI]
