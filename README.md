@@ -19,9 +19,8 @@ Myrmex is an advanced machine learning project designed to classify different sp
   - TensorFlow/Keras
   - OpenCV
   - Scikit-learn
-- **Backend**: Python with Flask or FastAPI
-- **Frontend**: Streamlit or React.js (Optional for Web UI)
-- **Deployment**: AWS, Docker, or Vercel for scalable deployment
+- **Streamlit**
+- **Deployment**: Hugging Face
 
 ---
 
