@@ -43,10 +43,10 @@ elif pages == "Get started":
 			st.image(upload_img, width=400)
 			# print(predicted_class)
 			if predicted_class == 0:
-				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image belongs to Fire Ants species</h1>", unsafe_allow_html=True)
+				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image belongs to Fire Ant species</h1>", unsafe_allow_html=True)
 			elif predicted_class == 1:
-				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image belongs to Ghost Ants species</h1>", unsafe_allow_html=True)
+				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image belongs to Ghost Ant species</h1>", unsafe_allow_html=True)
 			elif predicted_class == 2:
-				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image belongs to Weaver Ants species</h1>", unsafe_allow_html=True)
+				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image belongs to Weaver Ant species</h1>", unsafe_allow_html=True)
 			else:
-				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image doesnt match Ants species</h1>", unsafe_allow_html=True)
+				st.markdown("<h1 style='font-size: 1.5vw'>The uploaded image doesnt match Ant species</h1>", unsafe_allow_html=True)
