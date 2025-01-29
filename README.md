@@ -39,3 +39,4 @@ myrmex/
 ```
 
 Deployed on Hugging Face: [https://huggingface.co/spaces/anirudh06/myrmexAI](https://huggingface.co/spaces/anirudh06/myrmexAI)
+[https://tinyurl.com/myrmexai](https://tinyurl.com/myrmexai)
