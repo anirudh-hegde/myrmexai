@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 import numpy as np
 
-ant_model = load_model("myrmex.h5")
+ant_model = load_model("model/myrmex.h5")
 
 st.set_page_config(
 	page_title="MyrmexAI", page_icon="🐜"
